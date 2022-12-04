@@ -11,7 +11,7 @@ services:
 
   bot:
     environment:
-      DISCORD_TOKEN: token
+      DISCORD_TOKEN: MTA0OTA1ODk3ODI1NDA0MTE0OQ.G-lblD.lR5YIjk9PgTcXYNFk1f_T-F31T5QBL1Wt_mvR4
       MONGO_DBUSER: gpt3
       MONGO_DBPASS: gpt3
       MONGO_HOST: mongodb
